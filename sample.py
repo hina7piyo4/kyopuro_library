@@ -1,5 +1,6 @@
 #実行用ファイル
 #inputはsample_input.txtに貼り付ける
+#使用ライブラリ一覧：https://github.com/hina7piyo4/kyopuro_library
 
 # import sys
 # sys.set_int_max_str_digits(10000000) #4300桁以上が想定されるint型変数があるとき
